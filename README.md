@@ -1,7 +1,9 @@
 # spscqueue
+
 ** Single Producer Single Consumer ring buffer queue **
 
 [Circular buffer](https://en.wikipedia.org/wiki/Circular_buffer)  is a very simple data structure.
+
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Circular_Buffer_Animation.gif/400px-Circular_Buffer_Animation.gif)
 
 The ring buffer queue provided in this repository differs from the classic data structure in the following ways:
